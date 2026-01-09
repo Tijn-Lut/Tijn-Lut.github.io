@@ -1,3 +1,3 @@
 # IT Fundamentels
 
-Mijn project wordt hier gehost: https://tijn-lut.github.io/
+Mijn project wordt gehost op de volgende URL: https://tijn-lut.github.io/
